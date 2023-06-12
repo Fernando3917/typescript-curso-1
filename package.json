@@ -9,7 +9,6 @@
     "start": "concurrently \"npm run watch\" \"npm run server\"",
     "compile": "tsc",
     "watch": "tsc -w"
-
   },
   "author": "",
   "license": "ISC",
